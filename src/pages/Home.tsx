@@ -10,7 +10,7 @@ function Home() {
 
       {/* HERO */}
       <section className="relative overflow-hidden">
-        <div className="absolute -right-40 -top-40 h-[500px] w-[500px] rounded-full bg-violet-200/40 blur-3xl" />
+        <div className="absolute -right-40 -top-40 h-125 w-125 rounded-full bg-violet-200/40 blur-3xl" />
 
         <div className="relative mx-auto grid max-w-7xl items-center gap-16 px-6 py-24 lg:grid-cols-2 lg:px-8 lg:py-32">
 
